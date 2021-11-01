@@ -1,5 +1,4 @@
 pyActigraphy
 plotly
-os
 pandas
 matplotlib
